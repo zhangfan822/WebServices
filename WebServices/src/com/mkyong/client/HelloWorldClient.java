@@ -23,7 +23,7 @@ public class HelloWorldClient{
         
         System.out.println(hello.getABC("zhangfan", 26));
 
-        System.out.println(hello.getTest("zhangfan", 26));
+        System.out.println(hello.getTest("zhangfanTest", 26));
  
     }
  
