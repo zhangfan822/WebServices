@@ -19,7 +19,7 @@ public class HelloWorldClient{
  
         HelloWorld hello = service.getPort(HelloWorld.class);
  
-        System.out.println(hello.getHelloWorldAsString("mkyong"));
+        System.out.println(hello.getHelloWorldAsString("zhangfan"));
         
         System.out.println(hello.getABC("zhangfan", 26));
 
